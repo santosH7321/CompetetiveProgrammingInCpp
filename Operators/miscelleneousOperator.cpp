@@ -51,7 +51,7 @@ int main()
 
 
                 /**********************************
-                 *      AddressOf Operator        *
+                 *      AddressOf Operator (&)      *
                  **********************************/
 
                 int number = 20;
